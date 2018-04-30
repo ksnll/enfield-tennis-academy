@@ -1,0 +1,12 @@
+.PlayerScore__points {
+  font-size: 3em;
+  text-align: center;
+  margin-top: 30px;
+}
+.PlayerScore__sets, .PlayerScore__games {
+  font-family: Courier, serif;
+}
+
+.Scoreboard__message {
+  font-size: 2em;
+}

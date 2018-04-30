@@ -11,7 +11,7 @@ const Scoreboard = ({
   currentPoints, currentSets, currentGames, resetGame, playerScored, matchOver, lastMessage,
 }) => (
   <div className="Scoreboard">
-    <h1 className="Scoreboard__title">Einfield Tennis Scoreboard</h1>
+    <h1 className="Scoreboard__title">Enfield Tennis Scoreboard</h1>
     <div className="Scoreboard__message">{lastMessage}</div>
     <div className="Scoreboard__scores">
       {Object.values(PLAYERS).map(player =>

@@ -3,3 +3,4 @@ coverage
 *.log
 dist
 .idea
+.DS_Store
